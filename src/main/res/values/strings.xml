@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="app_heading">Welcome to ALC 4.0</string>
+    <string name="acl">About ACL</string>
+    <string name="profile_name">Chewe Ackim Chewe</string>
+    <string name="profile">My Profile</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Zambia</string>
+    <string name="email">Email:cheweackim@gmail.com</string>
+    <string name="phone_number">Phone Number: +260 979375075</string>
+    <string name="slack_username">Slack Username:@Ackim Chewe</string>
+
+
+
+
+</resources>
